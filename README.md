@@ -26,11 +26,11 @@ $ ./configure --prefix=${PWD}
 $ make
 ```
 
-### Copy one of the .config.* files to .config:
+### Copy one of the config.* files to .config:
 
-* .config.aarch64-rpi4-linux-gnueabihf
-* .config.arm-rpi4-linux-gnueabi
-* .config.arm-rpi4-linux-gnueabihf
+* config.aarch64-rpi4-linux-gnueabihf
+* config.arm-rpi4-linux-gnueabi
+* config.arm-rpi4-linux-gnueabihf
 
 <br>
 
